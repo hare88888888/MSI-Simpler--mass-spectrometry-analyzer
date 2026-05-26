@@ -41,7 +41,7 @@ This is a web-based Mass Spectrometry Imaging Analysis System. **No installation
 ├── style.css                       # Stylesheet
 ├── script.js                       # Core analysis logic
 ├── HotMetal2.jpg                   # Color bar image
-├── 1.tif / 2.tif / 3.tif           # Sample images
+├── 1.jpg / 2.jpg / 3.jpg           # Sample images
 ├── 2.png                           # Sample image
 └── README.md                       # Documentation
 ```
